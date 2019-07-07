@@ -1,6 +1,6 @@
 {% set name = "jupyterlab-plotly-extension" %}
-{% set version = "0.18.2" %}
-{% set sha256 = "f838a57fb3616bc496b2054475cfa627c52d4c5976849f5413d3f0d8ac77d36a" %}
+{% set version = "1.0.0" %}
+{% set sha256 = "4d9c049c3ce8fd356ad2008a6d83276463d6aef0abdd8a514e17cbffc350e820" %}
 
 package:
   name: {{ name|lower }}
